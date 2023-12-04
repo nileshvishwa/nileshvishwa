@@ -11,14 +11,12 @@
 </p>
 
  -->
- ![](https://komarev.com/ghpvc/?username=vishwanilesh09&style=for-the-badge)
-
-<a href="https://komarev.com/ghpvc/?username=vishwanilesh09">
-  <img align="right" src="https://komarev.com/ghpvc/?username=vishwanilesh09&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://nileshvishwa.com/?username=vishwanilesh09">
+  <img align="right" src="https://nileshvishwa.com/ghpvc/?username=vishwanilesh09&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
-[![Profile View ](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://nileshvishwa.com)
+ ![](https://komarev.com/ghpvc/?username=vishwanilesh09&style=for-the-badge)[](https://nileshvishwa.com)
 
 <!-- Intro  -->
 <h3 align="center">
