@@ -19,7 +19,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; Hey There!, My Self 
                 <b><a target="_blank" href="https://alsiam.com">Nilesh Vishwa </a></b>
         </samp>
 </h3>
