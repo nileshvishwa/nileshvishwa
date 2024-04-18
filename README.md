@@ -48,7 +48,7 @@
  <a href="https://twitter.com/knilesh09" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://www.instagram.com/nilesh__vishwa" target="_blank">
+ <a href="https://www.instagram.com/nilesh.vishwa__" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="nilesh" />
  </a> 
  <a href="https://www.facebook.com/nilesh.rock.9404" target="_blank">
@@ -66,7 +66,7 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: https://www.instagram.com/nilesh__vishwa<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://www.instagram.com/nilesh__vishwa)
+ 💬 &emsp; Ask me about anything [here](https://www.instagram.com/nilesh.vishwa__)
 
 </p>
 
