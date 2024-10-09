@@ -13,7 +13,7 @@
  -->
 
 
-<a href="https://nileshvishwa.com/?username=vishwanilesh09">
+<a href="https://nileshvishwa.github.io/personal-portfolio/">
   <img align="right" src="https://komarev.com/ghpvc/?username=vishwanilesh09&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
- <a href="https://www.nileshvishwa.com/" target="blank">
+ <a href="https://nileshvishwa.github.io/personal-portfolio/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Nilesh" />
  </a>
  <a href="https://www.linkedin.com/in/nilesh-vishwa-b1275a29b/" target="_blank">
